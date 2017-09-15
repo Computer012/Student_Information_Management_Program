@@ -52,29 +52,29 @@ Consol Base의 학생정보 관리 Program 입니다.
     - Class Main { }
 
     - Class Student {</br>
-        <Field></br>
+        (Field)</br>
             String 학번;</br>
             String 이름;</br>
             int 학년;</br>
             double 평점;</br>
         
-        <Method></br>
+        (Method)</br>
             equals();</br>
             hashCode();</br>
     }
     
     - Class StudentManager {</br>
-        <Field></br>
+        (Field)</br>
             StudentHashtable;</br>
     
-        <Method></br>
+        (Method)</br>
             run();</br>
     }
      
     - Class StudentHashtable {</br>
-        <Field></br>
+        (Field)</br>
         
-        <Method></br>
+        (Method)</br>
             showStudent();</br>
             AllStudent();</br>
             MajorStudent();</br>
@@ -83,7 +83,7 @@ Consol Base의 학생정보 관리 Program 입니다.
  
  
     - Class StudentFileIO {</br>
-        <Field></br>
+        (Field)</br>
         
-        <Method></br>
+        (Method)</br>
     }
