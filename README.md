@@ -44,9 +44,9 @@ Consol Base의 학생정보 관리 Program 입니다.
 ----------------------------------------------------------------------------------
 
 * 사용한 주요 API
-    >> 학생목록 담기 : Hashtable</br>
-    >> 학생목록 파일 불러오기 : ObjectInputStream</br>
-    >> 학생목록 파일 저장하기 : ObjectOutputStream</br>
+    - 학생목록 담기 : Hashtable</br>
+    - 학생목록 파일 불러오기 : ObjectInputStream</br>
+    - 학생목록 파일 저장하기 : ObjectOutputStream</br>
 
 * 필요한 클래스
     - Class Main { }
